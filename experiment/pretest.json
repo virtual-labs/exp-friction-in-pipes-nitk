@@ -2,38 +2,83 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Darcy Weisbach equation is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "h<sub>f</sub>=fL<sup>2</sup>/2gv",
+        "b": "h<sub>f</sub>=fLD<sup>2</sup>/2gv",
+        "c": "h<sub>f</sub>=fL<sup>2</sup>v/2gD",
+        "d": "h<sub>f</sub>=fLv<sup>2</sup>/2gD"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A flow in which each liquid particle does not have a definite path and the paths of individual particles also cross each other, is called turbulent flow.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Under otherwise uniform conditions Fanning friction factor for a rough pipe is?",
+      "answers": {
+        "a": "greater than that for a smooth pipe",
+        "b": "smaller than that for a smooth pipe",
+        "c": "equal to that for a smooth pipe"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is wrong!!</br><ol><li>i) Glass and plastics pipes have less friction loss</li><li>ii) Cast iron, steel pipes have high friction loss</li></ol>",
+      "answers": {
+        "a": "Only i)",
+        "b": "Only ii)",
+        "c": "Both are wrong",
+        "d": "Both i) and ii)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Minor losses do not make serious effects in",
+      "answers": {
+        "a": "Short pipes",
+        "b": "Long pipes",
+        "c": "Both the pipes",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
