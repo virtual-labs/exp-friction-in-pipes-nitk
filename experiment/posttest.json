@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The head loss caused in a straight pipe is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Minor loss",
+        "b": "No loss",
+        "c": "Major loss",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The loss in friction caused due to the bend, couplings, valves are",
+      "answers": {
+        "a": "Minor loss",
+        "b": "No loss",
+        "c": "Major loss",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "General formula used to calculate friction loss is",
+      "answers": {
+        "a": "Hazen Williams",
+        "b": "Bernoulli's Equation",
+        "c": "All the above",
+        "d": "Darcy-Weisbach"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "If the equivalent length of a 90&deg; elbow is greater than the 45&deg; elbow, the pressure loss across the 90&deg; elbow is ________ the 45&deg; elbow.",
+      "answers": {
+        "a": "Greater than",
+        "b": "Lesser than",
+        "c": "Same as",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "For hydraulically smooth pipe, the resistance to flow depends only on the?",
+      "answers": {
+        "a": "Relative roughness",
+        "b": "Absolute roughness",
+        "c": "Reynolds number",
+        "d": "Relative roughness and Reynolds number"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
